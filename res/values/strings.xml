@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HouseListingMashup</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">484309141712151</string>
+    <string name="search_intro">Search Your Property Here</string>
+    <string name="street_address_label">Address* : </string>
+    <string name="address_hint">Street Address</string>
+    <string name="city_label">City* :</string>
+    <string name="city_hint">City</string>
+    <string name="state_label">State* :</string>
+    <string name="state_hint">Choose State</string>
+    <string name="search_button">Search</string>
+    <string name="prev_button">Previous</string>
+    <string name="next_button">Next</string>
+    <string name="no_result">No Exact Match Found -- Verify that the given address is correct.</string>
+
+    <string-array name="state_array">
+        <item>AL</item>
+        <item>AK</item>
+        <item>AZ</item>
+        <item>AR</item>
+        <item>CA</item>
+        <item>CO</item>
+        <item>CT</item>
+        <item>DE</item>
+        <item>FL</item>
+        <item>GA</item>
+        <item>HI</item>
+        <item>ID</item>
+        <item>IL</item>
+        <item>IN</item>
+        <item>IA</item>
+        <item>KS</item>
+        <item>KY</item>
+        <item>LA</item>
+        <item>ME</item>
+        <item>MD</item>
+        <item>MA</item>
+        <item>MI</item>
+        <item>MN</item>
+        <item>MS</item>
+        <item>MO</item>
+        <item>MT</item>
+        <item>NE</item>
+        <item>NV</item>
+        <item>NH</item>
+        <item>NJ</item>
+        <item>NM</item>
+        <item>NY</item>
+        <item>NC</item>
+        <item>ND</item>
+        <item>OH</item>
+        <item>OK</item>
+        <item>OR</item>
+        <item>PA</item>
+        <item>RI</item>
+        <item>SC</item>
+        <item>SD</item>
+        <item>TN</item>
+        <item>TX</item>
+        <item>UT</item>
+        <item>VT</item>
+        <item>VA</item>
+        <item>WA</item>
+        <item>WV</item>
+        <item>WI</item>
+        <item>WY</item>
+    </string-array>
+
+    <string name="zillow_description">Search Powered by Zillow</string>
+    <string name="error_text">This field is required</string>
+    <string name="title_activity_zillow_tab">Results From Zillow</string>
+    <string name="title_section1">BASIC INFO</string>
+    <string name="title_section2">HISTORICAL ZESTIMATES</string>
+    <string name="linkout_intro">See more details on Zillow:</string>
+    <string name="title_activity_url">URLActivity</string>
+    <string name="zillow_copyright">© Zillow, Inc., 2006-2014</string>
+	<string name="zillow_terms_of_use">http://www.zillow.com/corp/Terms.htm</string>
+	<string name="zillow_what_is">http://www.zillow.com/zestimate/</string>
+	<string name="share">Share</string>
+	<string name="fb_login">Login and Share</string>
+
+</resources>
